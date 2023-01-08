@@ -1,0 +1,15 @@
+h1 {
+    background-color: rgb(125, 125, 230);
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+h3 {
+    background-color: blueviolet;
+    font-size: 22px;
+}
+
+li {
+    font-size: 18px;
+}
